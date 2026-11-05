@@ -1,0 +1,10 @@
+version: 1
+user: "davidcollom"
+lists:
+  - slug: "home-assistant" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome Home Assistant"
+    tagline: "Integrations and custom components for Home Assistant."
+    min_stars: 0
+    stale_months: 0
+    badges:
+      - "https://img.shields.io/badge/awesome-yes-brightgreen"
